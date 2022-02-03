@@ -1,0 +1,24 @@
+h1{
+     margin-bottom: 30px;
+     color: aqua;
+     text-decoration: underline;
+}
+input{
+     margin-right: 10px;
+     margin-bottom: 20px;
+     width: 200px;
+     background-color:aliceblue ;
+     border: solid;
+     font-weight: bold;
+}
+button{
+     margin-bottom: 20px;
+    background-color: limegreen;
+    font-weight: bold;
+}
+hr{
+    margin-bottom: 0px;
+}
+body{
+background-color: yellowgreen;
+}
